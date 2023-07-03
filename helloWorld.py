@@ -5,4 +5,4 @@ print(f"Hello {name}!")
 age = input("\nHow old are you? ")
 print(f"{name} is {age} years old")
 
-print("\nHello World!")
+print("\nGit is Awesome!")
